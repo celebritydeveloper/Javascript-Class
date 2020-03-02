@@ -1,0 +1,22 @@
+Question One: List the different ways to print a Javascript Expression.
+Answer: (a) document.getElementById();
+        (b) document.write();
+        (c) window.alert();
+        (d) console.log();
+
+
+Question Two: What are Javascript data type, Explain what you understand from each different type
+Answer: (a) String: This are text or letter , they can be written with quotes either single or double quotes.
+        (b) Numbers: These are nubmers, it can be written with or without decimal.
+        (c) Booleans: They are often used in conditional testing. True or False
+        (d) Arrays: They are written with square bracket, array items are seperated by commas. they are use to store data.
+        (e) Objects: are written with curly brace. Object properties are written as name:value Pairs, seperated by commas
+
+
+
+Question Three: What are primitive data types in Javascript.
+Answer: A primitive is not an object and has no method of it owns. All primitive are immutable.
+
+
+Question Four: Are Everything in Javascript Objects, if Yes explain why, if no Explain.
+Answer: No, not everything in Javascript is an object, strings, Booleans, numbers are not, they are primitive.
